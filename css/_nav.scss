@@ -1,0 +1,33 @@
+.navbar-toggler {
+    display: flex;
+    justify-content: end;
+}
+
+.navbar-nav {
+align-items: center;
+}
+
+@media (min-width: 576px) {
+.navbar-expand-sm .navbar-collapse {
+    flex-basis: auto;
+    display: flex !important;
+    justify-content: center;
+}
+}
+
+.navbar-dark {
+    background-color: black;
+}
+
+.container-fluid {
+    min-height: 150px;
+    font-size: 20px;
+}
+
+.logo{
+    color: $color;
+}
+
+.navbar-brand {
+    padding-left: 30px;
+}
