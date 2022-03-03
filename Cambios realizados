@@ -1,0 +1,24 @@
+# SASS2
+
+PARA TODAS LAS ARCHIVOS DE MI PAGINA.
+
+Se realizo NESTING a casi todo el codigo css.
+
+Se agrego un MIXIN un MAP y algunos EXTEND
+
+Se agregaron KEYWORDS a todas las paginas como asi tambien una DESCRIPCION para mejorar el SEO del proyecto.
+
+Las KEYWORD agregadas son <meta name="keywords"content="Eventos, el palmar, fiestas, niños, cumpleaños, aire libre, espacios verdes">
+
+Las DESCRIPCIONES cambian segun el archivo.
+
+INDEX: <meta name="description" content="Salon el palmar te ofrece infinitas posibilidades de vivir momentos unicos, contamos con diversas caracteristicas para que sea de tu evento el mejor.">
+
+CONTACTO: <meta name="description" content="Contactate con nosotros y conoce nuestro predio">
+
+LUGAR: <meta name="description" content="Conoce nuestro predio y todos sus beneficios">
+
+GALERIA: <meta name="description" content="Encontraras los distintos eventos realizados en nuestro predio">
+
+
+Se realizaron PARTIALS de porciones del codigo CSS.
